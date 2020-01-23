@@ -1,0 +1,27 @@
+{
+  "fitbit": {
+    "appUUID": "93d4bf5f-6a95-44b5-97d8-b1febea238a3",
+    "appType": "clockface",
+    "appDisplayName": "Babyface",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_internet"
+    ],
+    "buildTargets": [
+      "mira",
+      "gemini",
+      "meson",
+      "higgs"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Babyface"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}

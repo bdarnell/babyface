@@ -1,0 +1,93 @@
+<svg viewport-fill="#000000">
+  <!-- for i in range(60): print(f"""  <g transform="translate(50%, 50%) rotate({6*i})"><rect x="$-1" y="-140" width="2" height="30" fill="{'#606060' if i%5 else '#e0e0e0'}"/></g>""") -->
+  
+  <g transform="translate(50%, 50%) rotate(0)"><rect x="$-1" y="-140" width="2" height="30" fill="#e0e0e0"/></g>
+  <g transform="translate(50%, 50%) rotate(6)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(12)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(18)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(24)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(30)"><rect x="$-1" y="-140" width="2" height="30" fill="#e0e0e0"/></g>
+  <g transform="translate(50%, 50%) rotate(36)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(42)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(48)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(54)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(60)"><rect x="$-1" y="-140" width="2" height="30" fill="#e0e0e0"/></g>
+  <g transform="translate(50%, 50%) rotate(66)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(72)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(78)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(84)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(90)"><rect x="$-1" y="-140" width="2" height="30" fill="#e0e0e0"/></g>
+  <g transform="translate(50%, 50%) rotate(96)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(102)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(108)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(114)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(120)"><rect x="$-1" y="-140" width="2" height="30" fill="#e0e0e0"/></g>
+  <g transform="translate(50%, 50%) rotate(126)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(132)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(138)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(144)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(150)"><rect x="$-1" y="-140" width="2" height="30" fill="#e0e0e0"/></g>
+  <g transform="translate(50%, 50%) rotate(156)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(162)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(168)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(174)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(180)"><rect x="$-1" y="-140" width="2" height="30" fill="#e0e0e0"/></g>
+  <g transform="translate(50%, 50%) rotate(186)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(192)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(198)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(204)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(210)"><rect x="$-1" y="-140" width="2" height="30" fill="#e0e0e0"/></g>
+  <g transform="translate(50%, 50%) rotate(216)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(222)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(228)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(234)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(240)"><rect x="$-1" y="-140" width="2" height="30" fill="#e0e0e0"/></g>
+  <g transform="translate(50%, 50%) rotate(246)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(252)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(258)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(264)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(270)"><rect x="$-1" y="-140" width="2" height="30" fill="#e0e0e0"/></g>
+  <g transform="translate(50%, 50%) rotate(276)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(282)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(288)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(294)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(300)"><rect x="$-1" y="-140" width="2" height="30" fill="#e0e0e0"/></g>
+  <g transform="translate(50%, 50%) rotate(306)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(312)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(318)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(324)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(330)"><rect x="$-1" y="-140" width="2" height="30" fill="#e0e0e0"/></g>
+  <g transform="translate(50%, 50%) rotate(336)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(342)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(348)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+  <g transform="translate(50%, 50%) rotate(354)"><rect x="$-1" y="-140" width="2" height="30" fill="#606060"/></g>
+
+  <g id="hours" pointer-events="visible" transform="translate(50%,50%)">
+    <rect x="-2" y="-90" width="4" height="90" fill="salmon" />
+  </g>
+  <g id="mins" pointer-events="visible" transform="translate(50%,50%)">
+    <rect x="-2" y="-120" width="4" height="120" fill="salmon" />
+  </g>
+  <circle cx="50%" cy="50%" r="6" fill="salmon" />
+  <g id="secs" pointer-events="visible" transform="translate(50%,50%)">
+    <rect x="$-1" y="-130" width="2" height="145" fill="fb-red" />
+    <circle cx="0" cy="0" r="6" fill="fb-red" />
+  </g>
+  <circle cx="50%" cy="50%" r="4" fill="black" />
+
+  <g id="pump" pointer-events="visible" transform="translate(50%,50%)">
+    <text x="$-6" y="-80" class="babydata">P</text>
+  </g>
+  <g id="nurse" pointer-events="visible" transform="translate(50%,50%)">
+    <text x="$-6" y="-60" class="babydata">N</text>
+  </g>
+  <g id="bottle" pointer-events="visible" transform="translate(50%,50%)">
+    <text x="$-6" y="-40" class="babydata">B</text>
+  </g>
+  <g id="diaper" pointer-events="visible" transform="translate(50%,50%)">
+    <text x="$-6" y="-20" class="babydata">D</text>
+  </g>
+  
+  
+
+</svg>

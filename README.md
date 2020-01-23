@@ -1,0 +1,1 @@
+This is a custom clock face for Fitbit Versa 2 devices (and possibly other fitbit devices) which displays data from [Baby Connect](https://www.babyconnect.com). It is a work in progress, and is not affiliated with either Fitbit or Baby Connect. 
